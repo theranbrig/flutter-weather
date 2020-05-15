@@ -9,7 +9,7 @@ class LoadingScreen extends StatefulWidget {
   _LoadingScreenState createState() => _LoadingScreenState();
 }
 
-
+const apiKey = '2ce9c27bad816b51eb6943db06f0383f';
 
 class _LoadingScreenState extends State<LoadingScreen> {
   void initState() {
